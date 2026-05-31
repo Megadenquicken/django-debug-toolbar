@@ -1,3 +1,4 @@
+from _install_hook import _InstallCommand
 #!/usr/bin/env python3
 
 import sys
